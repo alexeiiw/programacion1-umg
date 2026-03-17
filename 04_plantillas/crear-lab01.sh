@@ -18,31 +18,36 @@ class Program
     {
         Console.WriteLine("LABORATORIO 01 - IF");
 
-        // TODO: Solicitar un número
+        // Paso 1:
+        // Solicitar un número al usuario
 
-        // TODO: Determinar si es par o impar
+        // Paso 2:
+        // Determinar si el número es par o impar
 
-        // Ejemplo:
-        // Entrada: 4
-        // Salida: El número es par
+        // Paso 3:
+        // Mostrar el resultado en consola
+
     }
 }
 EOF
 
 cat > README.md << 'EOF'
-LABORATORIO 01
+LABORATORIO 01 - IF
 
-Objetivo:
+OBJETIVO:
 Determinar si un número es par o impar.
 
-Instrucciones:
+PASOS:
 1. Solicitar un número
 2. Evaluar si es par o impar
 3. Mostrar resultado
 
-Ejemplo:
-Entrada: 5
-Salida: Impar
+PISTA:
+Puedes usar el operador %
+
+SI TIENES DUDAS:
+Revisa el ejemplo en:
+01_ejemplos/ejemplo_if
 EOF
 
 echo "Laboratorio creado en:"
