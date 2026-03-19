@@ -12,7 +12,7 @@ cd ~/programacion1
 
 3. Clonar el repositorio:
 
-git clone https://github.com/TU-USUARIO/programacion1-umg.git  
+git clone https://github.com/alexeiiw/programacion1-umg.git  
 
 4. Ingresar al repositorio:
 
